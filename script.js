@@ -27,3 +27,17 @@ async function buscarEMostrarVideos(params) {
 }
 
 buscarEMostrarVideos();
+
+const barraDePesquisa = document.querySelector(".pesquisar__input");
+
+barraDePesquisa.addEventListener("input", filtrarPesquisa);
+
+function filtrarPesquisa() {
+    const videos = document.querySelectorAll(".videos__item");
+
+    if(barraDePesquisa.value != ""){
+        
+    } else {
+        
+    }
+}
