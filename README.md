@@ -2,7 +2,7 @@
 
 VIDFLOW é uma plataforma de **compartilhamento de vídeos**, desenvolvida durante o curso de **JavaScript: consumindo e tratando dados de uma API** na Alura. Este projeto demonstra como consumir e manipular dados de APIs, criando filtros dinâmicos e uma interface interativa para explorar conteúdo de vídeos.
 
-🔗 [Acesse o site aqui](https://davidtpires.github.io/VIDFLOW/)
+🔗 [Acesse o site aqui](https://davidtpires.github.io/projeto-vidflow-main/)
 
 ---
 
