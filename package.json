@@ -1,0 +1,11 @@
+{
+  "name": "projeto-vidflow",
+  "version": "1.0.0",
+  "description": "VIDFLOW é uma plataforma de **compartilhamento de vídeos**, desenvolvida durante o curso de **JavaScript: consumindo e tratando dados de uma API** na Alura. Este projeto demonstra como consumir e manipular dados de APIs, criando filtros dinâmicos e uma interface interativa para explorar conteúdo de vídeos.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
